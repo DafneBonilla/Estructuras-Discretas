@@ -8,7 +8,7 @@ Prácticas y tareas ED 2022-1
 
 ### Ayudantes
 
-* Alma Rocío 
-* Gisselle Moreno Ibarra
+* Alma Rocío Sánchez Salgado
+* Gisselle Ibarra Moreno
 
 Prácticas y tareas realizadas durante el curso de Estructuras Discretas.
